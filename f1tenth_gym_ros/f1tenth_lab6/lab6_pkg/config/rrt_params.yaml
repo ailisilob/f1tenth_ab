@@ -1,0 +1,13 @@
+rrt_node:
+  ros__parameters:
+    max_iter: 300
+    goal_threshold: 0.3
+    step_size: 0.3
+    goal_bias: 0.2
+    goal_dist: 2.0
+    lookahead: 1.5
+    speed: 1.0
+    grid_resolution: 0.1
+    grid_width: 6.0
+    grid_height: 8.0
+    inflate: 3
